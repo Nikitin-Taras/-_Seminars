@@ -1,0 +1,15 @@
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_5\obj\Debug\net6.0\Task_5.csproj.AssemblyReference.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_5\obj\Debug\net6.0\Task_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_5\obj\Debug\net6.0\Task_5.AssemblyInfoInputs.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_5\obj\Debug\net6.0\Task_5.AssemblyInfo.cs
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_5\obj\Debug\net6.0\Task_5.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_5\bin\Debug\net6.0\Task_5.exe
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_5\bin\Debug\net6.0\Task_5.deps.json
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_5\bin\Debug\net6.0\Task_5.runtimeconfig.json
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_5\bin\Debug\net6.0\Task_5.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_5\bin\Debug\net6.0\Task_5.pdb
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_5\obj\Debug\net6.0\Task_5.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_5\obj\Debug\net6.0\refint\Task_5.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_5\obj\Debug\net6.0\Task_5.pdb
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_5\obj\Debug\net6.0\Task_5.genruntimeconfig.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_5\obj\Debug\net6.0\ref\Task_5.dll
