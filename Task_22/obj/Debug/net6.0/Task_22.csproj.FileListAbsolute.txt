@@ -1,0 +1,15 @@
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_22\bin\Debug\net6.0\Task_22.exe
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_22\bin\Debug\net6.0\Task_22.deps.json
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_22\bin\Debug\net6.0\Task_22.runtimeconfig.json
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_22\bin\Debug\net6.0\Task_22.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_22\bin\Debug\net6.0\Task_22.pdb
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_22\obj\Debug\net6.0\Task_22.csproj.AssemblyReference.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_22\obj\Debug\net6.0\Task_22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_22\obj\Debug\net6.0\Task_22.AssemblyInfoInputs.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_22\obj\Debug\net6.0\Task_22.AssemblyInfo.cs
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_22\obj\Debug\net6.0\Task_22.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_22\obj\Debug\net6.0\Task_22.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_22\obj\Debug\net6.0\refint\Task_22.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_22\obj\Debug\net6.0\Task_22.pdb
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_22\obj\Debug\net6.0\Task_22.genruntimeconfig.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_22\obj\Debug\net6.0\ref\Task_22.dll
