@@ -3,7 +3,7 @@
 // 4 -> 10
 // 8 -> 36
 Console.WriteLine("Введите число А");
-int A = int.Parse(Console.ReadLine());
+int a = int.Parse(Console.ReadLine());
 
 int Sum(int num)
 {
@@ -15,4 +15,4 @@ int Sum(int num)
     return sum;
 }
 
-Console.WriteLine($"Сумма чисел от 1 до {A} равна {Sum(A)}");
+Console.WriteLine($"Сумма чисел от 1 до {a} равна {Sum(a)}");
