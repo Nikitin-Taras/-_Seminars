@@ -1,0 +1,15 @@
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_33\obj\Debug\net7.0\Task_33.csproj.AssemblyReference.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_33\obj\Debug\net7.0\Task_33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_33\obj\Debug\net7.0\Task_33.AssemblyInfoInputs.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_33\obj\Debug\net7.0\Task_33.AssemblyInfo.cs
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_33\obj\Debug\net7.0\Task_33.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_33\bin\Debug\net7.0\Task_33.exe
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_33\bin\Debug\net7.0\Task_33.deps.json
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_33\bin\Debug\net7.0\Task_33.runtimeconfig.json
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_33\bin\Debug\net7.0\Task_33.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_33\bin\Debug\net7.0\Task_33.pdb
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_33\obj\Debug\net7.0\Task_33.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_33\obj\Debug\net7.0\refint\Task_33.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_33\obj\Debug\net7.0\Task_33.pdb
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_33\obj\Debug\net7.0\Task_33.genruntimeconfig.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_33\obj\Debug\net7.0\ref\Task_33.dll

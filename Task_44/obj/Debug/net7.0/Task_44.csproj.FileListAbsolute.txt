@@ -1,0 +1,15 @@
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_44\bin\Debug\net7.0\Task_44.exe
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_44\bin\Debug\net7.0\Task_44.deps.json
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_44\bin\Debug\net7.0\Task_44.runtimeconfig.json
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_44\bin\Debug\net7.0\Task_44.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_44\bin\Debug\net7.0\Task_44.pdb
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_44\obj\Debug\net7.0\Task_44.csproj.AssemblyReference.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_44\obj\Debug\net7.0\Task_44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_44\obj\Debug\net7.0\Task_44.AssemblyInfoInputs.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_44\obj\Debug\net7.0\Task_44.AssemblyInfo.cs
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_44\obj\Debug\net7.0\Task_44.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_44\obj\Debug\net7.0\Task_44.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_44\obj\Debug\net7.0\refint\Task_44.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_44\obj\Debug\net7.0\Task_44.pdb
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_44\obj\Debug\net7.0\Task_44.genruntimeconfig.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_44\obj\Debug\net7.0\ref\Task_44.dll

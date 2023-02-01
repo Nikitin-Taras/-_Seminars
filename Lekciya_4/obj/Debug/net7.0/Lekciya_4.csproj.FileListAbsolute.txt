@@ -1,0 +1,15 @@
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Lekciya_4\obj\Debug\net7.0\Lekciya_4.csproj.AssemblyReference.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Lekciya_4\obj\Debug\net7.0\Lekciya_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Lekciya_4\obj\Debug\net7.0\Lekciya_4.AssemblyInfoInputs.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Lekciya_4\obj\Debug\net7.0\Lekciya_4.AssemblyInfo.cs
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Lekciya_4\obj\Debug\net7.0\Lekciya_4.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Lekciya_4\bin\Debug\net7.0\Lekciya_4.exe
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Lekciya_4\bin\Debug\net7.0\Lekciya_4.deps.json
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Lekciya_4\bin\Debug\net7.0\Lekciya_4.runtimeconfig.json
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Lekciya_4\bin\Debug\net7.0\Lekciya_4.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Lekciya_4\bin\Debug\net7.0\Lekciya_4.pdb
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Lekciya_4\obj\Debug\net7.0\Lekciya_4.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Lekciya_4\obj\Debug\net7.0\refint\Lekciya_4.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Lekciya_4\obj\Debug\net7.0\Lekciya_4.pdb
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Lekciya_4\obj\Debug\net7.0\Lekciya_4.genruntimeconfig.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Lekciya_4\obj\Debug\net7.0\ref\Lekciya_4.dll

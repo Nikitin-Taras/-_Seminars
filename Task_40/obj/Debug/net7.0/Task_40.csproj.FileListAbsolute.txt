@@ -1,0 +1,15 @@
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_40\obj\Debug\net7.0\Task_40.csproj.AssemblyReference.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_40\obj\Debug\net7.0\Task_40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_40\obj\Debug\net7.0\Task_40.AssemblyInfoInputs.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_40\obj\Debug\net7.0\Task_40.AssemblyInfo.cs
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_40\obj\Debug\net7.0\Task_40.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_40\bin\Debug\net7.0\Task_40.exe
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_40\bin\Debug\net7.0\Task_40.deps.json
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_40\bin\Debug\net7.0\Task_40.runtimeconfig.json
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_40\bin\Debug\net7.0\Task_40.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_40\bin\Debug\net7.0\Task_40.pdb
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_40\obj\Debug\net7.0\Task_40.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_40\obj\Debug\net7.0\refint\Task_40.dll
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_40\obj\Debug\net7.0\Task_40.pdb
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_40\obj\Debug\net7.0\Task_40.genruntimeconfig.cache
+C:\Users\Nikit\Desktop\Учеба GB\C#\Seminars\Task_40\obj\Debug\net7.0\ref\Task_40.dll
